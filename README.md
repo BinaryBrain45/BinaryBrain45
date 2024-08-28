@@ -52,5 +52,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binarybrain45&" alt="binarybrain45" /></p>
 
-<!-- Snake animation -->
-![snake gif](https://github.com/BinaryBrain45/blob/output/github-contribution-grid-snake.svg)
